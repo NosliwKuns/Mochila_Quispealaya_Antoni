@@ -1,0 +1,5 @@
+1. IP PRIVADA: Direc. inet:10.0.2.15
+
+2. Direccion MAC: direcciónHW 08:00:27:25:94:cb
+
+3. Si, la IP publica y la IP privada de una maquina host son diferentes. 
